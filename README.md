@@ -7,8 +7,8 @@ DCI student in training to become  a junior full stack web developer
 At the moment I am looking for an internship in which I am looking forward to learn new technologies and to deepen my knowledge!
 
 * 🌍  I'm based in Berlin
-* you can contact me at nancy-klemm@gmx.de
-* brain  I'm learning TypeScript
+* You can contact me at nancy-klemm@gmx.de
+* I'm learning TypeScript atm
 
 
 ### Skills
