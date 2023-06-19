@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nancy Klemm
+Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nancy
 ===================================================================================================================================
 
 DCI student in training to become  a junior full stack web developer
@@ -7,6 +7,7 @@ DCI student in training to become  a junior full stack web developer
 At the moment I am looking for an internship in which I am looking forward to learn new technologies and to deepen my knowledge!
 
 * 🌍  I'm based in Berlin
+* you can contact me @nancy-klemm@gmx.de
 
 ### Skills
 
