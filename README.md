@@ -4,7 +4,7 @@ Hey there! [](https://user-images.githubusercontent.com/18350557/176309783-07859
 Junior Full Stack Web Developer
 ----------------------------------------------------------
 
-At the moment I am looking for an internship or a job in which I am looking forward to learn new technologies and to deepen my knowledge!
+I am ready to take my next development step and am now looking for a job in the IT industry which I am looking forward to learn new technologies and to deepen my knowledge!
 
 * 🌍  I'm based in Berlin
 * You can contact me at nancy-klemm@gmx.de
