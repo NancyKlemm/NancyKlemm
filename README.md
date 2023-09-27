@@ -23,13 +23,3 @@ I am ready to take my next development step and am now looking for a job in the 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/NancyKlemm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nancy-klemm-0149bb275/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/NancyKlemm/Kazurai-Arts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NancyKlemm&repo=Kazurai-Arts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NancyKlemm/Cosplay-List" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NancyKlemm&repo=Cosplay-List&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/NancyKlemm/Wetter-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NancyKlemm&repo=Wetter-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/NancyKlemm/Pokemon-Lite" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NancyKlemm&repo=Pokemon-Lite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
