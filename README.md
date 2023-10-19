@@ -8,7 +8,7 @@ I am ready to take my next development step and am now looking for a job in the 
 
 * 🌍  I'm based in Berlin | Germany
 * ✉️  You can contact me at [nancy-klemm@gmx.de](mailto:nancy-klemm@gmx.de)
-* 🚀  I'm currently working on [Weather-App](https://github.com/NancyKlemm/Weather-App)
+* 🚀  I'm currently working on my skills!
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
 
