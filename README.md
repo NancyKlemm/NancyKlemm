@@ -4,12 +4,12 @@ Hey there! My name is Nancy
 Junior Full Stack Web Developer and Media Designer
 --------------------------------------------------
 
-I am ready to take my next development step and am now looking for a job in the IT industry which I am looking forward to learn new technologies and to deepen my knowledge!
+I#m back and ready to take my next development step and am now looking for a job in the IT industry which I am looking forward to learn new technologies and to deepen my knowledge!
 
 * 🌍  I'm based in Berlin | Germany
 * ✉️  You can contact me at [nancy-klemm@gmx.de](mailto:nancy-klemm@gmx.de)
 * 🚀  I'm currently working on my skills!
-* 🧠  I'm learning TypeScript and Bootstrap
+* 🧠  I'm about to refresh my knowledge!
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
